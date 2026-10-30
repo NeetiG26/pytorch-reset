@@ -46,3 +46,5 @@ Setting up Tensorboard
 pip install tensorboard
 tensorboard --logdir runs --port 6006
 
+
+Datasets needed h5py and gdown

@@ -1,3 +1,7 @@
 runs/
 wandb/
 .venv/
+data/
+*.pth
+mock*
+.DS_Store
